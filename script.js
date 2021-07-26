@@ -5,3 +5,7 @@ function logout(element){
 function hide(element){
     element.remove();
 }
+
+function message(){
+    alert("Ninja was liked");
+}
